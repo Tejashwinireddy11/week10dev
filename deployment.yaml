@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: kubedemoapp
-          image: tejashwini1108/week9:t2
+          image: tejashwini1108/week9:t2 
           ports:
-            - containerPort: 5000
+            - containerPort: 5000
